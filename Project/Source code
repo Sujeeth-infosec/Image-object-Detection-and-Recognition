@@ -1,0 +1,25 @@
+from imageai.Detection import ObjectDetection
+import os
+
+# Paths to the model and input image
+model_path = "C:\users\pro\retinanet_resnet50_fpn_coco-eeacb38b.pth"  # Provide the correct path to your RetinaNet model
+input_image_path = "C:\Users\pro\image.jpg"   #Provide your path
+output_image_path = "C:\Users\pro\output_image.jpg   #Provide Your path
+
+# Initialize the detector
+detector = ObjectDetection()
+detector.setModelTypeAsRetinaNet()
+detector.setModelPath(model_path)
+detector.loadModel()
+
+# Detect objects in the image
+detections = detector.detectObjectsFromImage(
+    input_image=input_image_path, 
+    output_image_path=output_image_path
+)
+
+# Display detected objects and their percentages
+for detection in detections:
+    print(f"{detection['name']} : {detection['percentage_probability']}")
+
+print(f"Output image saved at: {output_image_path}")
