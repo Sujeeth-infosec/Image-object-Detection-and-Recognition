@@ -9,13 +9,13 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
 
 # Step by step process
  - Create a directory and navigate to it
-   - First, open command prompt on your windows system. Create a nre directory named "Project" using command
+   - First, open command prompt on your windows system. Create a new directory using command
 
-            mkdir PROJECT
+            mkdir projectname
      
    - Then, Navigate to the newly created directory using command
    
-            cd PROJECT
+            cd project
 
 
  - Install Python
@@ -24,14 +24,14 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
 
 
  - Create a virtual environment
-    - Once Python is installed, Create a virtual environment nemd "Myenv" using the following command
+    - Once Python is installed, Create a virtual environment namely "Myenv" using the following command
   
           python -m venv myenv
 
       
 
  - Activate the  virtual environment
-    - Activate the virtual environment 'myenv" withe following command
+    - Activate the virtual environment 'myenv" with following command
 
            myenv\Scripts\activate
 
@@ -49,26 +49,26 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
 
  - Install ImageAI
     - After installing necessary dependecies..,
-    - Next, install ImageAI version  3.0.2 using the following pip command
+    - Next, install ImageAI version 3.0.2 using the following pip command
 
            pip install imageai==3.0.2
 
 
  - Download Pre-tarined deep learning models
-    - Download the pre-trained deep learning models required for image-object detection.
+    - Download the Pre-trained deep learning models required for image-object detection.
        - RetinaNet Model: retinanet_resnet50_fpn_coco-eeach38b
        - YOLOv3 Model: yolov3
        - TinyYOLOv3 Mode: tiny-yolov3
-       -  -  In this Project, We have used RetinaNet Model for image-object detection.
+           -  In this Project, We have used RetinaNet Model for image-object detection.
 
  - Organize Files
-    - Ensure all files are saved in the same directory (PROJECT)
+    - Ensure all files are saved in the same directory.
 
  - Run Image-object Detection Code
-    - Execute the provided code for image-object detection.Make sure to have a clear, non-blurry image saved in the same directory (PROJECT) using the following command in command prompt
+    - Execute the provided code for image-object detection.Make sure to have a clear, non-blurry image saved in the same directory using the following command in command prompt.
   
             python codefilename.py
 
  - Output
- -  - The output image will be generated in the same folder (Project)
+ -  - The output image will be generated in the same folder.
     - Ensure all files are stored in the same path for seamless execution of the project.
