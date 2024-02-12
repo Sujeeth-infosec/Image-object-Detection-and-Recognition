@@ -51,8 +51,9 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 # Install Python Software
 
  - Install a python from official site
+   
 ![Screenshot 2024-02-12 143623](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/1de2bc83-8ab5-4c89-90ef-344c913d787e)
 
  - Select Python version 3.9.2 for windows
- - ![Screenshot 2024-02-12 143758](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/9ce3606d-3aec-415e-9013-ae1ba42f9433)
+  ![Screenshot 2024-02-12 143758](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/9ce3606d-3aec-415e-9013-ae1ba42f9433)
 
