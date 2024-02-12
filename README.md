@@ -3,7 +3,7 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
 
 # System Requirements
  - OS: Windows 10 or higher
- - PROCESSOR: AMD Ryzen 5000 Series or higher
+ - PROCESSOR: AMD Ryzen 5 5625U or higher...,
  - RAM: 8GB or higher
  - Tools: Command prompt, Vscode
 
