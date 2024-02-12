@@ -11,11 +11,11 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
  - Create a directory and navigate to it
    - First, open command prompt on your windows system. Create a new directory using command
 
-            mkdir projectname
+            mkdir project name
      
    - Then, Navigate to the newly created directory using command
    
-            cd project
+            cd project name
 
 
  - Install Python
