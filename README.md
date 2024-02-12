@@ -1,5 +1,5 @@
-# Facial-Recognization-System
-The project Facial-Object Detection and Recognition represent a crucial area of computer vision and artificial intelligence, aimed at identifying and categorizing both human faces and other objects within images or videos. This interdisciplinary field integrates advanced algorithms and models to achieve high accuracy and efficiency in detecting faces and objects, attributing to various applications such as surveillance, security, augmented reality, and human-computer interaction.
+# Image Object Detection and Recognition
+The project Image-Object Detection and Recognition represent a crucial area of computer vision and artificial intelligence, aimed at identifying and categorizing both human faces and other objects within images or videos. This interdisciplinary field integrates advanced algorithms and models to achieve high accuracy and efficiency in detecting faces and objects, attributing to various applications such as surveillance, security, augmented reality, and human-computer interaction.
 
 # Key Components:
 
@@ -27,11 +27,11 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
  - Create a directory and navigate to it
    - First, open command prompt on your windows system. Create a new directory using command
 
-            mkdir project name
+            mkdir project
      
    - Then, Navigate to the newly created directory using command
    
-            cd project name
+            cd project
 
 
  - Install Python
@@ -53,19 +53,19 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
 
  - Install Dependencies
-    - Install the required dependencies from ImageAI, Including the numpy, pillow, Opencv-python, Torch, torchvision and torch audio. You can install them using pip command
-       - Install Numpy, Pillow, matplotlib and Opencv-Python using following command
+    - Install the required dependencies from imageAI, Including the numpy, pillow, opencv-python, torch, torchvision and torch audio. You can install them using pip command
+       - Install numpy, pillow, matplotlib and opencv-python using following command
 
              pip install numpy pillow opencv-python matplotlib
 
-       - Install Torch, Torchvision, torchaudio using following command
+       - Install torch, torchvision, torchaudio using following command
 
              pip install torch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0
 
 
  - Install ImageAI
     - After installing necessary dependecies..,
-    - Next, install ImageAI version 3.0.2 using the following pip command
+    - Next, install imageai version 3.0.2 using the following pip command
 
            pip install imageai==3.0.2
 
@@ -75,6 +75,7 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
        - RetinaNet Model: retinanet_resnet50_fpn_coco-eeach38b
        - YOLOv3 Model: yolov3
        - TinyYOLOv3 Mode: tiny-yolov3
+         
            -  In this Project, We have used RetinaNet Model for image-object detection.
 
  - Organize Files
@@ -86,5 +87,5 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
             python codefilename.py
 
  - Output
-    - The output image will be generated in the same folder.
+    - The output image will be generated in the same directory.
     - Ensure all files are stored in the same path for seamless execution of the project.
