@@ -70,5 +70,5 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
             python codefilename.py
 
  - Output
- -  - The output image will be generated in the same folder.
+    - The output image will be generated in the same folder.
     - Ensure all files are stored in the same path for seamless execution of the project.
