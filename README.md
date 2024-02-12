@@ -5,7 +5,7 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
  - OS: Windows 10 or higher
  - PROCESSOR: AMD Ryzen 5000 Series or higher
  - RAM: 8GB or higher
- - Tools: CMD, Pycharm
+ - Tools: Command prompt, Pycharm
 
 # Step by step process
  - Create a directory and navigate to it
