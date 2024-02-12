@@ -18,9 +18,9 @@ Training and Optimization
 Overall, Facial-Object Detection and Recognition play a pivotal role in advancing technology-driven solutions for complex visual perception tasks, with continuous advancements contributing to improved accuracy, speed, and reliability in identifying both faces and objects in diverse environments.
 
 # System Requirements
- - OS: Windows 10 or higher
- - PROCESSOR: AMD Ryzen 5 5625U or higher...,
- - RAM: 8GB or higher
+ - OS: Windows 10
+ - PROCESSOR: AMD Ryzen 5 5625U
+ - RAM: 8GB
  - Tools: Command prompt, Vscode
 
 # Implementation
