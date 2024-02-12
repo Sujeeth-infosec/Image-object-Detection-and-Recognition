@@ -19,7 +19,8 @@ The project "Object and Facial Detection Using AI Models" focuses on developing 
 
 
  - Install Python
-    - Next, you need to install multiple versions of Python. You can download the installer for each version from the official Python website and follow the installation instruction.
+    - Next, you need to install any version (3.7, 3.8, 3.9) of Python. You can download the installer for any version from the official Python website and follow the installation instruction.
+    - In this project we have used 3.9 Python version.
 
 
  - Create a virtual environment
