@@ -23,7 +23,7 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
  - RAM: 8GB or higher
  - Tools: Command prompt, Vscode
 
-# Step by step process
+# Implementation
  - Create a directory and navigate to it
    - First, open command prompt on your windows system. Create a new directory using command
 
