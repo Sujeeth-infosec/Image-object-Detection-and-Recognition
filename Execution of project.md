@@ -152,5 +152,16 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
    ![code path](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/7cc6dfcf-8b82-4931-8bee-a690a006f4a8)
 
- - After executing the progeam using following command
-    
+ - After executing the program using following command
+
+         Python code.py
+   
+![codepy](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/0cc3cf57-530d-45ab-afec-30d73b1ae58a)
+
+ - Result of command and image
+
+   # Output 
+   ![output](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/033a036e-c7ee-4ab5-a423-59e5d93636bf)
+
+   ![output](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/5b735de9-530d-4307-8234-fa03fdc2794b)
+
