@@ -31,7 +31,7 @@
 
 
 # About the Image object Detection and Recognition
- - The project Image-Object Detection and Recognition represent a crucial area of computer vision and artificial intelligence, aimed at identifying and categorizing both human faces and other objects within images or videos. This interdisciplinary field integrates advanced algorithms and models to achieve high accuracy and efficiency in detecting faces and objects, attributing to various applications such as surveillance, security, augmented reality, and human-computer interaction.
+ - The project Image-Object Detection and Recognition represent a crucial area of computer vision and deep learning, aimed at identifying and categorizing both human faces and other objects within images or videos. This interdisciplinary field integrates advanced algorithms and models to achieve high accuracy and efficiency in detecting faces and objects, attributing to various applications such as surveillance, security, augmented reality, and human-computer interaction.
 
   # Key Components:
 
@@ -165,5 +165,5 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
    ![output](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/5b735de9-530d-4307-8234-fa03fdc2794b)
 
-# Using real-time images 
+# Documentation 
 
