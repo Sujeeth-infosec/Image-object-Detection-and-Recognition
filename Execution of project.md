@@ -95,3 +95,10 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
 ![env file](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/73965ab3-40c3-4252-8f0d-1506b84be6c0)
 
+
+ - Now Activate the Environment using the following command to accept the changes of pip, installations of files, dependencies in environment level
+
+       myenv\Scripts\activate
+
+   
+
