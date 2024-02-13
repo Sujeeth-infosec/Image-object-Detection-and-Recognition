@@ -100,5 +100,37 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
        myenv\Scripts\activate
 
-   
+   ![activate](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/c4067475-0dfa-4a79-ae34-3bd428619228)
 
+# Download packages & dependencies 
+ - Navigate to the directory and install the packages and dependencies by using the following commands mentioned below.
+ - In this project we use few packages
+    - OpenCv-Python
+    - Numpy
+    - Pillow
+    - matplotlib
+    - torch==1.10.1
+    - torchvision==0.11.1
+    - torchaudio==0.10.0
+
+          pip install numpy pillow opencv-python matplotlib
+
+![numpy pillow](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/394116de-51f6-4385-95f8-ee7e981052b4)
+
+
+       pip install torch==1.10.1 torchvision==0.11.1 torchaudio==0.10.0
+
+
+  ![torch vision](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/75ac3d18-5652-458a-8d2b-4088ba33866d)
+
+# Install ImageAI
+ - After installing packages in previous steps, we need to install an package named "imageai" by using the following command in command prompt
+
+        pip install imageai==3.0.2
+
+   ![imageai](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/b59913d4-2f8f-4487-8436-60ab71f1dd77)
+
+
+# Download an pre-trained Pre-Trained Deep learning models
+ - Deep-learning
+ - download the pre-trained model into the path directory "Project" as mentioned below  
