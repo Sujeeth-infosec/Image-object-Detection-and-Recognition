@@ -28,12 +28,12 @@
  - Input & Output 
  - Documentation
 
- - # Implementation
+
 
 # About the Image object Detection and Recognition
  - The project Image-Object Detection and Recognition represent a crucial area of computer vision and artificial intelligence, aimed at identifying and categorizing both human faces and other objects within images or videos. This interdisciplinary field integrates advanced algorithms and models to achieve high accuracy and efficiency in detecting faces and objects, attributing to various applications such as surveillance, security, augmented reality, and human-computer interaction.
 
- # Key Components:
+  # Key Components:
 
  - Detection
     - The process involves identifying and locating faces and objects within a given image or video frame. Advanced techniques like convolutional neural networks (CNNs) and deep learning architectures are commonly employed for precise detection.
