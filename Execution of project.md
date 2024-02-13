@@ -8,7 +8,6 @@
       
  - Make a Directory
     - Create a new directory
-    - Configure the directory
       
  - Create and Activate an Environment
     - Create an new Enviroment
@@ -64,7 +63,7 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
     -  Command prompt - to integrate the pre-trained models with real-time images & objects 
     -  VScode - for path edits and coding
 
-# Implementation
+# Create new Directory
  - Create a directory and navigate to directory using following commands
 
          mkdir project
@@ -73,14 +72,26 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
    ![project directory](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/bd316f3c-b6d3-45c0-bfa1-50bc5747ff28)
 
+ 
 
-    - creates an directory in specified path as per given command 
 
-
- -  This command navigate to the directory desiantion we specified in command
+ -  This command navigate to the directory destination we specified in command
 
          cd project
 
 
 
   ![mkdir project](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/a12391d8-eb2d-47b4-88be-7e4fd31063d2)
+
+
+# Create a new environment
+ - create new environment for project in same created directory by using following command
+
+        Python -m venv myenv
+  
+![python -m venv myenv](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/86354b2e-5730-477d-b42a-70ea6a6a1994)
+
+ ![myenv](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/4396324c-1b3c-47c1-ba51-9746658461d6)
+
+![env file](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/73965ab3-40c3-4252-8f0d-1506b84be6c0)
+
