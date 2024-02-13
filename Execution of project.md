@@ -55,3 +55,32 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
  - Select Python version 3.9.2 for windows
 
+
+# System requirements
+ - OS: Windows 10
+ - PROCESSOR: AMD Ryzen 5 5625U
+ - RAM: 8GB
+ - Tools we used for project
+    -  Command prompt - to integrate the pre-trained models with real-time images & objects 
+    -  VScode - for path edits and coding
+
+# Implementation
+ - Create a directory and navigate to directory using following commands
+
+         mkdir project
+
+   ![mkdir project](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/f3e9e58e-6ceb-4127-b5df-3aa3526ea278)
+
+   ![project directory](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/bd316f3c-b6d3-45c0-bfa1-50bc5747ff28)
+
+
+    - creates an directory in specified path as per given command 
+
+
+ -  This command navigate to the directory desiantion we specified in command
+
+         cd project
+
+
+
+  ![mkdir project](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/a12391d8-eb2d-47b4-88be-7e4fd31063d2)
