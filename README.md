@@ -73,8 +73,8 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
  - Download Pre-tarined deep learning models
     - Download the Pre-trained deep learning models required for image-object detection.
        - RetinaNet Model: retinanet_resnet50_fpn_coco-eeach38b
-       - YOLOv3 Model: yolov3
-       - TinyYOLOv3 Mode: tiny-yolov3
+       - YOLOv3 Model: To detect custom objects
+       - TinyYOLOv3 Mode: 
          
            -  In this Project, We have used RetinaNet Model for image-object detection.
 
