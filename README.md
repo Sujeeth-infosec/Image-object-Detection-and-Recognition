@@ -27,5 +27,11 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
 We have developing an project namely "Image Object Detection and Recognition" using pre-trained deep learning models, Computer vision libraries aimed at identifying and categorizing both human faces and other objects within images and videos..., and more using various tools and AI models within the given requirements.We have used Retinanet_resnet-50 model for this project.
 
- - #Retinanet_resnet-50
-   There are many models in open source digital world.But, we have choosen an 
+ # Retinanet_resnet-50
+  - There are many models in open source digital world.But, we have choosen an retinanet_resnet50_fpn_coco-eeacb38b model among the other available models as per project requirements.
+     
+  -  RetinaNet is a popular object detection model introduced by Facebook AI Research (FAIR). It addresses some of the limitations of previous models by combining a feature pyramid network with a two-task framework: one task focuses on object classification, and the other on bounding box regression.
+
+  - The ResNet-50 backbone refers to the Residual Network architecture with 50 layers, which serves as the feature extractor for RetinaNet. ResNet-50 is renowned for its effectiveness in image classification tasks and is often utilized in various computer vision applications due to its balance between performance and computational efficiency.
+
+  - Combining the RetinaNet framework with the ResNet-50 backbone results in a powerful object detection model capable of detecting objects in images with high accuracy and efficiency. This model has been widely adopted in both research and industry for tasks such as object detection in images and video surveillance.
