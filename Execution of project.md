@@ -26,7 +26,7 @@
  - Download and integrate Pre-Trained Deep learning models
  - Implement and run an code
  - Input & Output 
- - Documentation
+ - Reference
 
 
 
