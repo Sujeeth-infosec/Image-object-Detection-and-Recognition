@@ -167,5 +167,7 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
    ![output](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/5b735de9-530d-4307-8234-fa03fdc2794b)
 
-# Documentation 
+# Reference
+ - https://imageai.readthedocs.io/en/latest/index.html
+ - https://github.com/OlafenwaMoses/ImageAI/
 
