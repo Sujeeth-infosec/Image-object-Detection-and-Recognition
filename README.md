@@ -22,3 +22,10 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
  - PROCESSOR: AMD Ryzen 5 5625U
  - RAM: 8GB
  - Tools: Command prompt, Vscode
+
+# Overview
+
+We have developing an project namely "Image Object Detection and Recognition" using pre-trained deep learning models, Computer vision libraries aimed at identifying and categorizing both human faces and other objects within images and videos..., and more using various tools and AI models within the given requirements.We have used Retinanet_resnet-50 model for this project.
+
+ - #Retinanet_resnet-50
+   There are many models in open source digital world.But, we have choosen an 
