@@ -138,6 +138,8 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
     - YOLOv3 Model: yolov3
     - TinyYOLOv3 Mode: tiny-yolov3
  - For this project, i have used retinanet model for this project.
+ - copy and paste the below link in any browser to download retinanet_resnet50 model directly.
+    - https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/retinanet_resnet50_fpn_coco-eeacb38b.pth/  
  - download and paste the RetinaNet model into the directory "Project" as shown in below image
    
 ![retanet](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/a59facf3-ede5-4a20-9fb8-877439df5b1e)
