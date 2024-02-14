@@ -62,8 +62,8 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
  - PROCESSOR: AMD Ryzen 5 5625U
  - RAM: 8GB
  - Tools we used for project
-    -  Command prompt - to integrate the pre-trained models with real-time images & objects 
-    -  VScode - for path edits and coding
+    -  Command prompt - to integrate the pre-trained models with computer vision and more...,
+    -  VScode - for Python coding, path edit.
 
 # Create new Directory
  - Create a directory and navigate to directory using following commands
