@@ -119,7 +119,7 @@ Overall, Facial-Object Detection and Recognition play a pivotal role in advancin
 
  - we have used an specific version of packages for compalitibility of Deep-learning models 
 
-       pip install torch==1.10.1 torchvision==0.11.1 torchaudio==0.10.0
+       pip install torch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0
 
 
 ![torch vision](https://github.com/Sujeeth-infosec/Image-object-Detection-and-Recognition/assets/56471468/75ac3d18-5652-458a-8d2b-4088ba33866d)
